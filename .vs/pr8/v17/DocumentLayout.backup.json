@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\moskvina\\pr8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7DBEE6-7828-43CA-9C8E-BDF9A2D921C0}|pr8.vcxproj|C:\\moskvina\\pr8\\pr8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C7DBEE6-7828-43CA-9C8E-BDF9A2D921C0}|pr8.vcxproj|solutionrelative:pr8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr8.cpp",
+              "DocumentMoniker": "C:\\moskvina\\pr8\\pr8.cpp",
+              "RelativeDocumentMoniker": "pr8.cpp",
+              "ToolTip": "C:\\moskvina\\pr8\\pr8.cpp",
+              "RelativeToolTip": "pr8.cpp",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAIwLgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-06T03:25:51.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
